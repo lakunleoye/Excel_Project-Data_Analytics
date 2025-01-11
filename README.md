@@ -1,5 +1,4 @@
 # Excel Data Analytics Peoject
- Project demonstrating my Excel skills
 This repo contains all the excel files that I used for my 'Excel Project Data Analytics' Course.
 
  ## Salary Dashboard
