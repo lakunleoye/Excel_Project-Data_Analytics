@@ -75,7 +75,7 @@ This shows the value of acquiring multiple relevant skills, especially for those
 #### **Implications**
 - These salary insights are important for planning and salary negotiations, helping professionals and companies align their offers with market standards while considering geographical variations.
 
-## What are the top skills of data professionals?
+## 3. What are the top skills of data professionals?
 ### Skill: Power Pivot
 #### Power Pivot
 - I created a data model by integrating the `data_jobs_all` and `data_jobs_skills` tables into one model.
@@ -90,6 +90,40 @@ This shows the value of acquiring multiple relevant skills, especially for those
 ### Analysis
 
 #### Insights
+- SQL and Python dominate as top skills in data-related jobs, reflecting their foundational role in data processing and analysis.
+- Cloud technologies like AWS and Azure also show significant presence, underlining the industry's shift towards cloud services and big data technologies.
+
+#### Implication
+- Understanding prevalent skills in the industry not only helps professionals stay competitive but also guides training and educational programs to focus on the most impactful technologies.
+
+## 4. What is the pay for the top 10 skills in Data Analytics?
+
+### Skill: Advanced Charts (Pivot Chart)
+
+#### Pivotchart
+
+- A combo PivotChart was created by plotting the median salary and skill likelihood (%) from the PivotTable.
+- **Primary Axis:** Median Salary (as a Clustered Column)
+- **Secondary Axis:** Skill Likelihood(as a Line with Markers)
+To customize the chart, I added a title axis, removed the lines (skill likelihood), and changed the markers to diamonds.
+### Analysis
+
+#### Insights
+- Higher median salaries are associated with skills like Python, Oracle, and SQL, suggesting their critical role in high-paying tech jobs.
+- Skills like PowerPoint and Word have the lowest median salaries and likelihood, indicating less specialization and demand in high-salary sectors.
+
+### Implication
+- The output shows the importance of investing time in learning high-value skills like Python and SQL, which are evidently tied to higher paying roles, especially for those looking to maximize their salary in the tech industry.
+
+## Conclusion
+As a job seeker, I conducted this study to understand the data science job market. Based on dataset from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. The use of Excel features like Power Query, PivotTables, DAX, and charts, helped to discover key correlations between multiple skills and higher salaries, particularly Python, SQL, and cloud technologies. 
+
+
+
+
+
+
+
 
 
 
