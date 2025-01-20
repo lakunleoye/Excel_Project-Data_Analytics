@@ -17,8 +17,8 @@ The project mainly used the following Excel skills
 -**Power Query**
 -**Power Pivot**
 
-###Dataset Used
-This project utilised a real-world data science jobs data obtain from Luke Barousse's Excel Course (https://www.youtube.com/watch?v=pCJ15nGFgVg). This include detailed information on the following:
+### Dataset Used
+This project utilised a real-world data science jobs data obtain from [Luke Barousse's Excel Course](https://www.youtube.com/watch?v=pCJ15nGFgVg). This include detailed information on the following:
 -**Job titles**
 -**Salaries**
 -**Locations**
