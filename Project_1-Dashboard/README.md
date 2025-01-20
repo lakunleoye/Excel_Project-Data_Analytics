@@ -27,11 +27,17 @@ The dataset used for the project contains real-world data science job informatio
 ## Dashboard Build
 ### Charts
 #### Data Science Job Salaries - Bar Chart
+
+![Job_Title](https://github.com/user-attachments/assets/cdfc842b-86fc-411e-bf61-c838cab8c8be)
+
+- **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
 - **Data Organization:** Sorted job titles by descending salary for improved readability.
 - **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 #### Country Median Salaries - Map Chart
+
+![Map_Chart](https://github.com/user-attachments/assets/f158a123-4d22-4e3f-89be-a9d350163bd2)
 
 - **Excel Features:** Excel's map chart feature was used to plot median salaries globally.
 - **Design Choice:** Color-coded map was used to visually differentiate salary levels across regions.
@@ -60,8 +66,11 @@ IF(
 
 Background Table
 
+![Background Table](https://github.com/user-attachments/assets/99dc56f6-2a21-4a14-a4d8-69792c8efd0e)
 
 Dashboard Implementation
+
+![Job_Title](https://github.com/user-attachments/assets/b45d62f9-05fe-459a-83f3-09590f2cbcf0)
 
 #### Count of Job Schedule Type
 
@@ -73,9 +82,11 @@ Dashboard Implementation
 
 Background Table
 
+![Background Table_2](https://github.com/user-attachments/assets/10900c45-352f-4b13-a54a-84daf6ae39b8)
 
-Dashboard Implementation:
+Dashboard Implementation
 
+![Type](https://github.com/user-attachments/assets/0975cfdf-d880-451f-8f5c-5034a5d0efd5)
 
 ### Data Validation
 
