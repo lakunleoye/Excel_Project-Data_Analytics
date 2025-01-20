@@ -1,5 +1,9 @@
 # Excel Salary Dashboard
 
+
+![Salary_Dashboard](https://github.com/user-attachments/assets/183ac263-7bfd-4318-b560-05cdb1fd4e7c)
+
+
 ## Introduction
 I created a jobs salary dashboard to help me and other job seekers investigate salaries for desired jobs and adequate compensation. 
 This project used a real-world data science jobs data obtain from [Luke Barousse's Excel Course](https://www.youtube.com/watch?v=pCJ15nGFgVg). It provides a foundation in analyzing data using Excel. The data contains detailed information on job titles, salaries, locations, and essential skills.
