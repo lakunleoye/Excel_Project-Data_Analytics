@@ -42,8 +42,10 @@ Each query was tranformed by changing the column types, removing unnecessary col
 
 #### Load
 The transformed queries were loaded into the workbook, setting the stage for subsequent analysis.
+
 - data_jobs_all
 ![data_jobs_all mains](https://github.com/user-attachments/assets/1163ed6c-b485-46cf-8a8b-3e7ac787f35a)
+
 
 - data_job_skills
 ![data_jobs_skills mains](https://github.com/user-attachments/assets/614bee34-9f1f-407a-947a-cf0b8815ded4)
