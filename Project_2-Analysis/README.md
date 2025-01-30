@@ -46,10 +46,12 @@ Each query was tranformed by changing the column types, removing unnecessary col
 The transformed queries were loaded into the workbook, setting the stage for subsequent analysis.
 
 - data_jobs_all
+
 ![data_jobs_all mains](https://github.com/user-attachments/assets/1163ed6c-b485-46cf-8a8b-3e7ac787f35a)
 
 
 - data_job_skills
+
 ![data_jobs_skills mains](https://github.com/user-attachments/assets/614bee34-9f1f-407a-947a-cf0b8815ded4)
 
 ### Analysis
@@ -84,6 +86,7 @@ This shows the value of acquiring multiple relevant skills, especially for those
 - The salary disparity between US and Non-US roles is particularly notable in high-tech jobs, which might be influenced by the concentration of tech industries in the US.
 
 ![Salary_Analysis](https://github.com/user-attachments/assets/cb5c7160-06e2-4609-98a0-306594ca8227)
+
 
 #### **Implications**
 - These salary insights are important for planning and salary negotiations, helping professionals and companies align their offers with market standards while considering geographical variations.
