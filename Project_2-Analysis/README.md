@@ -33,10 +33,12 @@ I started by using Power Query to extract the original data (`data_salary_all.xl
 #### Transform
 Each query was tranformed by changing the column types, removing unnecessary column,cleaning text to eliminate specific words, and triming excess whitespace.
 - data_jobs_all
+
  ![data_jobs_all](https://github.com/user-attachments/assets/d41300e2-9c23-4353-ae68-84a1b1a4670b)
 
 
 - data_job_skills
+
 ![data_jobs_skills](https://github.com/user-attachments/assets/529d163a-3d7a-4b97-a794-d1f10c56bca8)
 
 
